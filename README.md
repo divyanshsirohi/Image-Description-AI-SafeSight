@@ -126,4 +126,4 @@ It achieves record-breaking results on over 56 benchmarks spanning text, code, m
 ## 🛠️ Installation and Usage  
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/Metadome-emergingtechhackathon/hackathon-mighty.git
+   git clone https://github.com/divyanshsirohi/Image-Description-AI-SafeSight.git
